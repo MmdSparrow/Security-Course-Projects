@@ -1,3 +1,5 @@
+<h1 align="center">Security Course Projects</h1>
+
 This repository contains five security-related projects developed as part of a university security course:
 
 1. **DES & 3DES**
